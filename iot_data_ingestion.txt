@@ -1,2 +1,2 @@
 I am ingesting real time data.
-ingesting new data.
+ingested new data.
